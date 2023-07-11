@@ -1,0 +1,17 @@
+label{
+    display:block;
+    padding: 10px;
+}
+form{
+    margin: 0px 250px 0px 250px ;
+    background-color: aquamarine;
+} 
+#submit{
+    padding: 10px;
+}
+input[type=submit]{
+    background-color: greenyellow;
+}
+input[type=submit]:hover{
+    background-color:red;
+} 000
